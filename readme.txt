@@ -1,2 +1,2 @@
-Creating a new branch is quick And simplei.
+Creating a new branch is quick And simplest.
 Edit on dev branch.
